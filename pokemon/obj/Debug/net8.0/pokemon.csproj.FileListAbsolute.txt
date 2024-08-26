@@ -1,0 +1,14 @@
+/Users/ikja/project/pokemon/bin/Debug/net8.0/pokemon
+/Users/ikja/project/pokemon/bin/Debug/net8.0/pokemon.deps.json
+/Users/ikja/project/pokemon/bin/Debug/net8.0/pokemon.runtimeconfig.json
+/Users/ikja/project/pokemon/bin/Debug/net8.0/pokemon.dll
+/Users/ikja/project/pokemon/bin/Debug/net8.0/pokemon.pdb
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.AssemblyInfoInputs.cache
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.AssemblyInfo.cs
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.csproj.CoreCompileInputs.cache
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.dll
+/Users/ikja/project/pokemon/obj/Debug/net8.0/refint/pokemon.dll
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.pdb
+/Users/ikja/project/pokemon/obj/Debug/net8.0/pokemon.genruntimeconfig.cache
+/Users/ikja/project/pokemon/obj/Debug/net8.0/ref/pokemon.dll
